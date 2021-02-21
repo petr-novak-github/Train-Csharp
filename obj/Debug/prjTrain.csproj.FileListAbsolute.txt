@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\26-ucim-se-2021-02-21\trainZnova\stuff\prjTrain\bin\Debug\prjTrain.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\26-ucim-se-2021-02-21\trainZnova\stuff\prjTrain\bin\Debug\prjTrain.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\26-ucim-se-2021-02-21\trainZnova\stuff\prjTrain\bin\Debug\prjTrain.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\26-ucim-se-2021-02-21\trainZnova\stuff\prjTrain\obj\Debug\prjTrain.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\26-ucim-se-2021-02-21\trainZnova\stuff\prjTrain\obj\Debug\prjTrain.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\26-ucim-se-2021-02-21\trainZnova\stuff\prjTrain\obj\Debug\prjTrain.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\26-ucim-se-2021-02-21\trainZnova\stuff\prjTrain\obj\Debug\prjTrain.pdb
